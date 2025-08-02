@@ -10,14 +10,14 @@ show_pages(
         # 菜单一
         # Section("友爱之家", "🧙‍♂️"),
         # Section("友爱之家", "👨‍⚕️️"),
-        Page("page1/introduction.py", "小小科普", "📚", in_section=True),
-        Page("page1/tools.py", "技术指南", "🛠️", in_section=True),
+        # Page("page1/introduction.py", "小小科普", "📚", in_section=True),
+        # Page("page1/tools.py", "技术指南", "🛠️", in_section=True),
 
         # 菜单二
         # Section("工具仓库", "🧑‍💻"),
         # Page("page2/block.py", "核心组件", "📇", in_section=True),
         Page("page2/segtool.py", "分割工具", "🗃️", in_section=True),
-        Page("page2/eva.py", "数据指标", "📊", in_section=True),
+        # Page("page2/eva.py", "数据指标", "📊", in_section=True),
     ]
 )
 
